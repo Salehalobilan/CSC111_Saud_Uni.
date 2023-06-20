@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.debug.ui"/>
+			<item value="org.eclipse.team.ui.exportWizards"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment09_441102323_Saleh_Alobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Final_441102323_Saleh_Alobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment05_441102323_Saleh_ALobilan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Lab09_441102323_Saleh_ALobilan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment08_441102323_Saleh_Alobilan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment07_441102323_Saleh_ALobilan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment06_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment05_441102323_Saleh_Alobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment04_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Lab05_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment03_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Lab04_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment02_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Assignment01_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Lab04_441102323_Saleh_Alobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Lab03_441102323_Saleh_Alobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\Lab02_441102323_Saleh_ALobaylan.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\LAB01.zip"/>
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\LAB01.jar"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\saleh\Dropbox\My PC (DESKTOP-GI3RE5Q)\Desktop\LAB01.zip"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item key="actionSetFilter" value="true"/>
+		<item key="internalFilter" value="true"/>
+		<item key="uncategorizedFilter" value="true"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="750"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="844"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.preferencePages.BuildOrder"/>
+			<item value="org.eclipse.ui.preferencePages.Views"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="workspace"/>
+			<item value="dark"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,29 @@
+//Saleh ALobaylan 441102323
+public class TestFan {
+
+	public static void main(String[] args) {
+		
+		Fan frstFan = new Fan();
+		Fan secFan = new Fan();
+		
+		frstFan.increaseSpeed();
+		frstFan.increaseSpeed();
+		frstFan.increaseSpeed();
+		
+		frstFan.decreaseSpeed();
+		
+		System.out.println("-------------");
+		
+		frstFan.changeColor("yellow");
+		frstFan.changeRadius(10);
+		frstFan.turnOn();
+		
+		System.out.println(frstFan.toString());
+		
+		System.out.println("-------------");
+		
+		System.out.println(secFan.toString());
+
+	}
+
+}
